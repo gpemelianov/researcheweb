@@ -11,3 +11,8 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+<<<<<<< HEAD
+=======
+
+BuildType: Website
+>>>>>>> f81b7dd16db475be1a022c8b0070406b52e56d18
